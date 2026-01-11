@@ -1,0 +1,18 @@
+export type Weapon =
+  | "Ak47"
+  | "M4A1"
+  | "M4A1Silencer"
+  | "Awp"
+  | "Deagle"
+  | "Famas"
+  | "Galilar"
+  | "Glock"
+  | "P250"
+  | "Tec9"
+  | "UspSilencer"
+  | "Elite"
+  | "Mp9"
+  | "Mac10"
+  | "Taser"
+  | "Inferno"
+  | "SG556";
