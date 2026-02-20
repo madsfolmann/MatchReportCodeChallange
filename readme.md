@@ -2,7 +2,7 @@
 
 ### Goal of the code challenge
 
-Parse [this native CS:GO language text file](backend/API/Operations/Query/Showcase/match_log.txt) from a match containing 9172 lines and render it in the frontend. Approximately 6-7 hours was spent coding it all, starting from scratch.
+Parse relevant statistics from [this native CS:GO language text file](backend/API/Operations/Query/Showcase/match_log.txt) from a match containing 9172 lines - and render it in the frontend. Approximately 6-7 hours was spent coding it all, starting from scratch.
 
 ### Key Features & Considerations
 
